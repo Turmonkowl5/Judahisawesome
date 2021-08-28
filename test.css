@@ -11,5 +11,5 @@ body{
 .box-1{
     background-color: lightgreen;
     border-right: 5px red solid;
-    padding-left: 5px black solid;
+    border-left: 5px black solid;
 }
