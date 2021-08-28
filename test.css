@@ -10,4 +10,5 @@ body{
 }
 .box-1{
     background-color: lightgreen;
+    border-right: 5px red solid;
 }
