@@ -2,4 +2,8 @@ body{
     background-color: rgb(101, 224, 218);
     color:blue;
     font: normal 16px "Comic Sans MS", cursive, sans-serif;
+    margin: 0;
+}
+.box-1{
+    background-color: lightgreen;
 }
