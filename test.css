@@ -8,8 +8,3 @@ body{
     width: 80%;
     margin: auto;
 }
-.box-1{
-    background-color: lightgreen;
-    border-right: 5px red solid;
-    border-left: 5px black solid;
-}
